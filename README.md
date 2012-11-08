@@ -1,2 +1,3 @@
 GitTestProject
 ==============
+Test Git functionality. 
